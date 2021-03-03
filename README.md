@@ -13,3 +13,9 @@ Things to do before running the program
 1. Change IP Address on camera_chat under receiving & sending
 2. Please have the same program running on your patner's computer with reverse ip address inorder to run th program without errors.
 3. Run the program simultaneously.
+
+# Screen-Share
+
+Things to do before running the program
+1. Change IP Address on Seceiver.py & Sender.py
+2. Run the program simultaneously.
