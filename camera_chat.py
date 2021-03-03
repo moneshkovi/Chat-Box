@@ -4,8 +4,8 @@ from vidstream import StreamingServer
 import threading
 import time
 
-receiving = StreamingServer('192.168.0.107', 9999) #linux_ip_address-dell
-sending = CameraClient('192.168.0.105', 9999)  #windows_ip_address-asus
+receiving = StreamingServer('IP ADDRESS', 9999) #Your_ip_address
+sending = CameraClient('IP ADDRESS', 9999)  #Your-patner_ip_address
 
 t1 = threading.Thread(target=receiving.start_server())
 t1.start()
