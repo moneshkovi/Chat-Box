@@ -7,4 +7,9 @@ Things to do before running the program
 
 START with server.py & then run client.py
 
+#Video Calls
 
+Things to do before running the program
+1. Change IP Address on camera_chat under receiving & sending
+2. Please have the same program running with reverse ip address inorder to run th program without errors.
+3. Run the program simultaneously.
